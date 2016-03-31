@@ -104,3 +104,13 @@ pre {
 pre code {
     border: none;
 }
+
+/* CUSTOM */
+a {
+    background-color: #4565A7;
+}
+.nav-pills > li.active > a, 
+.nav-pills > li.active > a:hover, 
+.nav-pills > li.active > a:focus {
+    background-color: #4565A7;
+}
