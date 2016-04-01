@@ -51,8 +51,10 @@ li {
 
 #content img {
     max-width: 100%;
-    padding: 4px;
+    padding: 5px;
     background-color: #fff;
+    display: block;
+    margin: 0 auto;
 }
 
 header.navbar {
