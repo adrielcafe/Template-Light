@@ -113,3 +113,6 @@ a {
 .nav-pills > li.active > a:focus {
     background-color: #4565A7;
 }
+.zoom-img-wrap {
+    z-index: 9999;
+}

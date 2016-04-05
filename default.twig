@@ -75,7 +75,7 @@
         <script>
             $(function() {
                 $("img").each(function(){
-                    $(this).data("action", "zoom");
+                    $(this).attr("data-action", "zoom");
                 });
                 $("section>h1").wrap('<div class="page-header" />');
                 hljs.initHighlightingOnLoad();
